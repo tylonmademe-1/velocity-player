@@ -72,10 +72,10 @@ android {
 
   signingConfigs {
     create("release") {
-      storeFile = file("debug.keystore")
-      storePassword = "android"
-      keyAlias = "androiddebugkey"
-      keyPassword = "android"
+      storeFile = file("velocity.keystore")
+      storePassword = "velocity123"
+      keyAlias = "velocity"
+      keyPassword = "velocity123"
     }
   }
 
