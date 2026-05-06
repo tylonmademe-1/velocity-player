@@ -1,0 +1,33 @@
+# Build outputs
+build/
+app/build/
+*.apk
+*.aab
+*.aar
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Android Studio
+.idea/
+*.iml
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Keystore / signing
+*.jks
+*.keystore
+keystore.properties
+release.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
