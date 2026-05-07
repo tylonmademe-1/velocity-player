@@ -1,5 +1,10 @@
 <resources>
   <string name="app_name" translatable="false">Velocity</string>
+  <!-- App Shortcuts -->
+  <string name="shortcut_play_recent_short">Play Recent</string>
+  <string name="shortcut_play_recent_long">Play Recently Watched</string>
+  <string name="shortcut_local_files_short">Local Files</string>
+  <string name="shortcut_local_files_long">Browse Local Videos</string>
   <string name="generic_reset">Reset</string>
   <string name="generic_share">Share</string>
   <string name="generic_confirm">Confirm</string>

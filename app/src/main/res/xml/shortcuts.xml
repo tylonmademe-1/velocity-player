@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <shortcut
+        android:shortcutId="play_recent"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_play_recent_short"
+        android:shortcutLongLabel="@string/shortcut_play_recent_long">
+        <intent
+            android:action="app.marlboroadvance.mpvex.ACTION_PLAY_RECENT"
+            android:targetPackage="app.marlboroadvance.mpvex"
+            android:targetClass="app.marlboroadvance.mpvex.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="local_files"
+        android:enabled="true"
+        android:icon="@mipmap/ic_launcher"
+        android:shortcutShortLabel="@string/shortcut_local_files_short"
+        android:shortcutLongLabel="@string/shortcut_local_files_long">
+        <intent
+            android:action="app.marlboroadvance.mpvex.ACTION_LOCAL_FILES"
+            android:targetPackage="app.marlboroadvance.mpvex"
+            android:targetClass="app.marlboroadvance.mpvex.MainActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+</shortcuts>
