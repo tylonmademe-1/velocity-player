@@ -1,7 +1,7 @@
 # Velocity Player
 
 <p align="center">
-  <img src="app/src/main/ic_launcher-playstore.png" width="120" alt="Velocity Player Logo"/>
+  <img src="github.jpg" width="120" alt="Velocity Player Logo"/>
 </p>
 
 <p align="center">
