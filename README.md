@@ -1,7 +1,7 @@
 # Velocity Player
 
 <p align="center">
-  <img src="github.jpg" width="120" alt="Velocity Player Logo"/>
+  <img src="https://raw.githubusercontent.com/tylonmademe-1/velocity-player/main/i.png" width="120" alt="Velocity Player Logo"/>
 </p>
 
 <p align="center">
@@ -87,14 +87,6 @@
 - Verbose logging, log dump, in-app update checker
 - Clear playback history, thumbnail cache, font cache, config cache
 - Crash screen with database reset option
-
----
-
-## Screenshots
-
-| Home | Player | Settings |
-|------|--------|----------|
-| ![](fastlane/metadata/android/en-US/images/phoneScreenshots/1.png) | ![](fastlane/metadata/android/en-US/images/phoneScreenshots/2.png) | ![](fastlane/metadata/android/en-US/images/phoneScreenshots/3.png) |
 
 ---
 
