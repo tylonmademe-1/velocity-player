@@ -1,7 +1,7 @@
 # Velocity Player
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tylonmademe-1/velocity-player/main/i.png" width="300" alt="Velocity Player Logo"/>
+  <img src="https://raw.githubusercontent.com/tylonmademe-1/velocity-player/main/logo.png" width="300" alt="Velocity Player Logo"/>
 </p>
 
 <p align="center">
