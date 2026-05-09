@@ -90,6 +90,37 @@
 
 ---
 
+## Building from Source
+
+### Requirements
+- [Android Studio](https://developer.android.com/studio) (latest stable)
+- JDK 17 (bundled with Android Studio)
+- Android SDK with API 36
+
+### Steps
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/tylonmademe-1/velocity-player
+   cd velocity-player
+   ```
+
+2. Open the project in Android Studio via **File → Open**
+
+3. Let Gradle sync complete (the `app/libs/mpv-android-lib-v0.0.1.aar` is already included in the repo)
+
+4. Select a device or emulator and click **Run ▶**
+
+### Build Variants
+| Variant | Description |
+|---|---|
+| `standardDebug` | Development build, full storage access |
+| `standardRelease` | Release build with update checker |
+| `playstoreRelease` | Play Store build, scoped storage only |
+| `fdroidRelease` | F-Droid build, arm64 only |
+
+---
+
 ## Credits
 
 Built on top of [mpvEx](https://github.com/marlboro-advance/mpvEx) by abdallahmehiz.  

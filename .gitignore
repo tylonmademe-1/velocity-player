@@ -4,6 +4,7 @@ app/build/
 *.apk
 *.aab
 *.aar
+!app/libs/*.aar
 
 # Gradle
 .gradle/
